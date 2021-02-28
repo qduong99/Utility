@@ -10,6 +10,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
+/**
+ * Merge multiple PDF files to one using Apache pdfbox
+ */
 public class Merge {
 
     public static void main(String[] args) throws IOException {
