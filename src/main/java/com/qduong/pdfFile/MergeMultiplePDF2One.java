@@ -11,9 +11,9 @@ import java.nio.file.Paths;
 import java.util.stream.Stream;
 
 /**
- * Merge multiple PDF files to one using Apache pdfbox
+ * MergeMultiplePDF2One multiple PDF files to one using Apache pdfbox
  */
-public class Merge {
+public class MergeMultiplePDF2One {
 
     public static void main(String[] args) throws IOException {
         String rootClassSlides = "C:\\workspace\\MIU\\EA\\slides\\Class Slides";
